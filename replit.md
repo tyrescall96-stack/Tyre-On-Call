@@ -4,6 +4,10 @@
 
 pnpm workspace monorepo using TypeScript. Each package manages its own dependencies.
 
+## Artifacts
+
+- **Tyre on Call** (`artifacts/tyre-on-call`) — React + Vite landing page for a 24/7 mobile tyre fitting business. Light theme, red brand color. Single-page with hero, services, FAQ, coverage areas, and CTA sections. No backend required.
+
 ## Stack
 
 - **Monorepo tool**: pnpm workspaces

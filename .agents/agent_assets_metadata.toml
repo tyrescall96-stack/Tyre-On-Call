@@ -1,0 +1,37 @@
+uploads = []
+
+[[generated]]
+id = "Ry-wdKrBDsX87ureYv4gM"
+uri = "file://attached_assets/generated_images/generated_image.png"
+type = "image"
+title = "generated_image"
+
+[[outputs]]
+id = "lSbQ8QLXXM1n_5fSltTfM"
+uri = "file://artifacts/tyre-on-call/src/assets/images/hero.jpg"
+type = "image"
+title = "mobile tyre fitting van roadside"
+
+[[outputs]]
+id = "ObakuDG-CivRGCqeT6W85"
+uri = "file://artifacts/tyre-on-call/src/assets/images/mechanic.jpg"
+type = "image"
+title = "car tyre fitting mechanic"
+
+[[outputs]]
+id = "Cs-0s5pUovBJ8up-TRkuo"
+uri = "file://artifacts/tyre-on-call/src/assets/images/emergency.jpg"
+type = "image"
+title = "roadside assistance tyre"
+
+[[outputs]]
+id = "OMrsN305qlA2G0zirFGk8"
+uri = "file://artifacts/tyre-on-call/src/assets/images/fleet.jpg"
+type = "image"
+title = "fleet vehicles tyres"
+
+[[outputs]]
+id = "Q73iYpnCgi1iBS1EKr7oE"
+uri = "file://attached_assets/stock_images/stock_image.jpg"
+type = "image"
+title = "mobile tyre fitting van roadside UK service"
